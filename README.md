@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="kiro.jpg" alt="Kiro" width="220" />
+</p>
+
 # edu-plasma-keybindings
 
 Erik's KDE Plasma keyboard-shortcut customisations, shipped as a dotfile drop-in. Part of the `~/EDU/` learning series — drop these in and your Plasma session inherits the Kiro-flavour bindings.
